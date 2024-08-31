@@ -432,27 +432,23 @@ https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m
 #EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/RCTI.jpeg",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd 
 
-#EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/RCTI.jpeg",RCTI+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
- 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/MNC%20TV.jpeg",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/GTV.jpeg",GTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd 
- 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/INEWS.png",iNews
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -494,7 +490,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/ANTV.jpeg",ANTV
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/TV%20ONE.jpeg",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -517,7 +516,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
  
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/TRANS%207.jpg",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id 
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
@@ -532,7 +531,7 @@ http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/KOMPAS.jpg",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id 
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
  
@@ -550,10 +549,10 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=li
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
  
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/rtv.webp",RTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="Btv.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/BTV.jpg",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
